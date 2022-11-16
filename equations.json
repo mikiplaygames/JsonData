@@ -6,8 +6,8 @@
   },
   {
     "Name": "Suma Ciągu Artmetycznego",
-    "Searched": [ "ajeden", "an", "n" ],
-    "MathExpression": "(ajeden + an) / 2 * n"
+    "Searched": [ "ajeden", "an", "n", "sn" ],
+    "MathExpression": "sn = (ajeden + an) / 2 * n"
   },
   {
     "Name": "N w ciągu Geometrycznym",
