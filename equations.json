@@ -3,13 +3,13 @@
     "Name": "N-ty wyraz ciągu artmetycznego",
     "Searched": [ "ajeden", "n", "r"],
     "Unkown": "an",
-    "MathExpression": "an = ajeden + (n-1)r"
+    "MathExpression": "ajeden + (n-1)r"
   },
   {
     "Name": "Suma Ciągu Artmetycznego",
     "Searched": [ "ajeden", "an", "n"],
     "Unkown": "sn",
-    "MathExpression": "sn = (ajeden + an) / 2 * n"
+    "MathExpression": "(ajeden + an) / 2 * n"
   },
   {
     "Name": "N w ciągu Geometrycznym",
