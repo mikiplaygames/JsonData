@@ -1,8 +1,8 @@
 [
   {
     "Name": "N-ty wyraz ciągu artmetycznego",
-    "Searched": [ "ajeden", "n", "r" ],
-    "MathExpression": "ajeden + (n-1)r"
+    "Searched": [ "ajeden", "n", "r", "an" ],
+    "MathExpression": "an = ajeden + (n-1)r"
   },
   {
     "Name": "Suma Ciągu Artmetycznego",
